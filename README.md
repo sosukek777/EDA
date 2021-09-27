@@ -1,2 +1,2 @@
-# STAT32940
-Codes that I developed in STAT 32940 Multivariate Data Analysis via Matrix Decompositions
+# Exploratory Multivariate Data Analysis
+Codes that I learned and developed for explatory data analysis
